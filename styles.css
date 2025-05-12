@@ -7,8 +7,8 @@ body, html {
 }
 
 .violet-page {
-  background-color: #d46deb;
-  color:	#e0e0e0;
+  background-color: #330000;
+  color:	#d4c2a2;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -20,12 +20,12 @@ body, html {
 
 @keyframes colorCycle {
   0%, 100% {
-    background-color: #d46deb;
-    color: 	#e0e0e0;
+    background-color: #330000;
+    color: 	#d4c2a2;
   }
   50% {
-    background-color: 	#e0e0e0;
-    color: #d46deb;
+    background-color: 	#d4c2a2;
+    color: #330000;
   }
 }
 
